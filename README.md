@@ -76,12 +76,8 @@ text = "Your long text or news article here."
 summary = summarizer(text, max_length=80, min_length=30, do_sample=False)
 print(summary[0]['summary_text'])
 
-# Project Structure
-AI-Text-Summarizer/
-│── summarizer.ipynb        # Main Colab Notebook
-│── requirements.txt        # Dependencies
-│── README.md               # Project Documentation
-│── .gitignore              # Optional, to ignore unnecessary files
+<img width="739" height="172" alt="image" src="https://github.com/user-attachments/assets/5e1a81eb-47d0-4c8c-80cb-c31cc49ff78d" />
+
 
 # Installation
 
